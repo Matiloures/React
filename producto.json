@@ -1,9 +1,0 @@
-[
-    {"id":1, "nombre": "Ranita", "categoria": "Productos", "category": "Animales", "precio": 1600, "img": "./img/Rana.png"},
-    {"id":2, "nombre": "Osito Nordico", "categoria": "Productos", "category": "Animales", "precio": 1700, "img": "./img/Oso.png"},
-    {"id":7, "nombre": "Ciervo Nordico", "categoria": "Productos", "category": "Animales", "precio": 2000, "img": "./img/Ciervo.png"},
-    {"id":3, "nombre": "Hipopotas", "categoria": "Productos", "category": "Animales", "precio": 2000, "img": "./img/Hipo.png"},
-    {"id":4, "nombre": "Frida", "categoria": "Productos", "category": "Personajes", "precio": 2500, "img": "./img/frida.png"},
-    {"id":5, "nombre": "Batman", "categoria": "Productos", "category": "Personajes", "precio": 2500, "img": "./img/Batman.png"},
-    {"id":6, "nombre": "Canasta de Frutas", "categoria": "Productos", "category": "Objetos", "precio": 3000, "img": "./img/BolsaFrutas.png"}   
-]
